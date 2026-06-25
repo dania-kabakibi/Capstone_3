@@ -29,7 +29,7 @@ The Power BI report includes:
 - Git & GitHub
 
 ## Project Demo Video
-10-minute project presentation link
+https://drive.google.com/file/d/1wd4EnY9jz-13-Lmr_t8ErdwdMZj4VPlt/view?usp=sharing
 
 ## Author
 Dania Kabakibi
